@@ -1,0 +1,12 @@
+.quoteBox {
+  width: 50vw;
+  height: 50vh;
+  font-family: cursive;
+  font-size: 2rem;
+  background-color: white;
+  color: green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}

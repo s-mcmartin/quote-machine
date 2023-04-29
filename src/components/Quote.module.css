@@ -1,0 +1,10 @@
+.mainQuote {
+  font-size: 2.5rem;
+  width: 100%;
+  text-align: center;
+}
+
+.author {
+  width: 100%;
+  text-align: right;
+}
